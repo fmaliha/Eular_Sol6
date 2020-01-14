@@ -1,5 +1,6 @@
 # Answer : 25164150
 Sum Square Difference
+
 Formula for Sum of numbers :
 n(n+1) / 2
 
