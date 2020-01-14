@@ -1,2 +1,2 @@
-# Eular_Sol6
+# Answer : 25164150
 Sum Square Difference
